@@ -9,9 +9,14 @@ https://drive.google.com/file/d/160Wt-MUOagCZrr4z-6SInnfO84GztaUr/view?usp=shari
 # Networking:
 Retrofit library is used for networking along with coil to load images asynchronously to improve performance.
 # Architecture:
-MVVM (Model View ViewModel) architecture is used.
+Clean Code architecture is used.
 Kotlin Coroutines and flow are used for asyncronous programming.
 # Dependency Injection:
 Hilt is used for dependency injection.
+# Testing:
+* Unit test cases are created.
+* Mockito for testing.
+  
+File_name: CatRepositoryTest.kt
 # Future Scope:
 Pagination can be implemented in future if supported from backend.
