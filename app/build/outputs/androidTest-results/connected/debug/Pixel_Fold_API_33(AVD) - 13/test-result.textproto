@@ -1,0 +1,68 @@
+# 2024-10-04T19:13:46.042255Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "e.aman.catgalleryapp"
+    test_method: "testCatApi"
+    start_time {
+      seconds: 1728069225
+      nanos: 672000000
+    }
+    end_time {
+      seconds: 1728069225
+      nanos: 719000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/amansrivastava/Desktop/CAT APP/app/build/outputs/androidTest-results/connected/debug/Pixel_Fold_API_33(AVD) - 13/logcat-e.aman.catgalleryapp.ExampleInstrumentedTest-testCatApi.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/amansrivastava/Desktop/CAT APP/app/build/outputs/androidTest-results/connected/debug/Pixel_Fold_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/amansrivastava/Desktop/CAT APP/app/build/outputs/androidTest-results/connected/debug/Pixel_Fold_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/amansrivastava/Desktop/CAT APP/app/build/outputs/androidTest-results/connected/debug/Pixel_Fold_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/amansrivastava/Desktop/CAT APP/app/build/outputs/androidTest-results/connected/debug/Pixel_Fold_API_33(AVD) - 13/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

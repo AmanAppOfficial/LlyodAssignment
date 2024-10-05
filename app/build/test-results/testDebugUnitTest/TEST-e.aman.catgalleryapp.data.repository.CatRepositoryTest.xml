@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="e.aman.catgalleryapp.data.repository.CatRepositoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-05T09:49:26" hostname="HN9HD6NKJ2.local" time="0.674">
+  <properties/>
+  <testcase name="testGetCatsList" classname="e.aman.catgalleryapp.data.repository.CatRepositoryTest" time="0.674"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

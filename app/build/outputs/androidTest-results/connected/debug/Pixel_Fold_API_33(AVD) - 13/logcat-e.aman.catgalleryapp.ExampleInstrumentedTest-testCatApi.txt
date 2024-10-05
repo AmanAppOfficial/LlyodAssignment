@@ -1,0 +1,2 @@
+10-05 00:43:45.455 27138 27155 I TestRunner: started: testCatApi(e.aman.catgalleryapp.ExampleInstrumentedTest)
+10-05 00:43:45.486 27138 27155 I TestRunner: finished: testCatApi(e.aman.catgalleryapp.ExampleInstrumentedTest)

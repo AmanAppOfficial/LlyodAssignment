@@ -1,0 +1,35 @@
+e.aman.catgalleryapp.test.app-emoji2-1.4.0-0 /Users/amansrivastava/.gradle/caches/transforms-3/00a36f466c51dea723a715d3b8d00965/transformed/emoji2-1.4.0/res
+e.aman.catgalleryapp.test.app-core-1.13.1-1 /Users/amansrivastava/.gradle/caches/transforms-3/03069a1405a655f83b6a0da07f6c29ae/transformed/core-1.13.1/res
+e.aman.catgalleryapp.test.app-activity-1.9.0-2 /Users/amansrivastava/.gradle/caches/transforms-3/09e7f29d345709345a3f3d0d7f0c8f4c/transformed/activity-1.9.0/res
+e.aman.catgalleryapp.test.app-activity-compose-1.9.0-3 /Users/amansrivastava/.gradle/caches/transforms-3/1f0882b45b365fb459f6c4d3b3b1d6aa/transformed/activity-compose-1.9.0/res
+e.aman.catgalleryapp.test.app-lifecycle-livedata-core-2.8.6-4 /Users/amansrivastava/.gradle/caches/transforms-3/1f97f6bfcab812cb93ba654bb9490a81/transformed/lifecycle-livedata-core-2.8.6/res
+e.aman.catgalleryapp.test.app-ui-test-junit4-release-5 /Users/amansrivastava/.gradle/caches/transforms-3/27a75f2ecc3e8522ce2fdaaf87cb69f2/transformed/ui-test-junit4-release/res
+e.aman.catgalleryapp.test.app-savedstate-1.2.1-6 /Users/amansrivastava/.gradle/caches/transforms-3/2c175d5a20bac8af27fab52ac82f6f29/transformed/savedstate-1.2.1/res
+e.aman.catgalleryapp.test.app-lifecycle-viewmodel-release-7 /Users/amansrivastava/.gradle/caches/transforms-3/4aad29a8fc576114f5fe053624c3be35/transformed/lifecycle-viewmodel-release/res
+e.aman.catgalleryapp.test.app-customview-poolingcontainer-1.0.0-8 /Users/amansrivastava/.gradle/caches/transforms-3/54ed18827889c70568e1f5b899cf9619/transformed/customview-poolingcontainer-1.0.0/res
+e.aman.catgalleryapp.test.app-startup-runtime-1.1.1-9 /Users/amansrivastava/.gradle/caches/transforms-3/580ab7def1141da0ebe13bafdc3779ab/transformed/startup-runtime-1.1.1/res
+e.aman.catgalleryapp.test.app-ui-release-10 /Users/amansrivastava/.gradle/caches/transforms-3/5d8e4636f3e34c17a6b7bbc00a81c8d5/transformed/ui-release/res
+e.aman.catgalleryapp.test.app-lifecycle-process-2.8.6-11 /Users/amansrivastava/.gradle/caches/transforms-3/5f5234cd11707222530638cb552ea214/transformed/lifecycle-process-2.8.6/res
+e.aman.catgalleryapp.test.app-ui-graphics-release-12 /Users/amansrivastava/.gradle/caches/transforms-3/64342b8d4a922770f98465774899e898/transformed/ui-graphics-release/res
+e.aman.catgalleryapp.test.app-lifecycle-runtime-release-13 /Users/amansrivastava/.gradle/caches/transforms-3/6c05013373a5d8dbd957bfeb0ad9f32d/transformed/lifecycle-runtime-release/res
+e.aman.catgalleryapp.test.app-lifecycle-viewmodel-ktx-2.8.6-14 /Users/amansrivastava/.gradle/caches/transforms-3/7179ff6a28fbd2a4420b027e548dd658/transformed/lifecycle-viewmodel-ktx-2.8.6/res
+e.aman.catgalleryapp.test.app-profileinstaller-1.3.1-15 /Users/amansrivastava/.gradle/caches/transforms-3/8c77291094515f13896cdf2335b1ed9b/transformed/profileinstaller-1.3.1/res
+e.aman.catgalleryapp.test.app-annotation-experimental-1.4.1-16 /Users/amansrivastava/.gradle/caches/transforms-3/8ecc598031b32e7ac6daab0234ec0e70/transformed/annotation-experimental-1.4.1/res
+e.aman.catgalleryapp.test.app-runtime-saveable-release-17 /Users/amansrivastava/.gradle/caches/transforms-3/95124ae01d551ae935c8a5e7a56c7de5/transformed/runtime-saveable-release/res
+e.aman.catgalleryapp.test.app-lifecycle-runtime-ktx-release-18 /Users/amansrivastava/.gradle/caches/transforms-3/a069d1597c6da68fd4159db33da44079/transformed/lifecycle-runtime-ktx-release/res
+e.aman.catgalleryapp.test.app-ui-unit-release-19 /Users/amansrivastava/.gradle/caches/transforms-3/a160b9b4d58ede6cce80232221732d51/transformed/ui-unit-release/res
+e.aman.catgalleryapp.test.app-runtime-release-20 /Users/amansrivastava/.gradle/caches/transforms-3/b2dd12c547faace287f2f5c499232bd3/transformed/runtime-release/res
+e.aman.catgalleryapp.test.app-lifecycle-viewmodel-savedstate-2.8.6-21 /Users/amansrivastava/.gradle/caches/transforms-3/b4f6fa0681a58cabfe7ed5f30e0f0eda/transformed/lifecycle-viewmodel-savedstate-2.8.6/res
+e.aman.catgalleryapp.test.app-ui-test-release-22 /Users/amansrivastava/.gradle/caches/transforms-3/b9d2399a570bb8128a028dc28895eab5/transformed/ui-test-release/res
+e.aman.catgalleryapp.test.app-savedstate-ktx-1.2.1-23 /Users/amansrivastava/.gradle/caches/transforms-3/c9144621c854f5dd5070b6679505eaca/transformed/savedstate-ktx-1.2.1/res
+e.aman.catgalleryapp.test.app-core-1.5.0-24 /Users/amansrivastava/.gradle/caches/transforms-3/ceef714b229c210b84a24e8adfca0255/transformed/core-1.5.0/res
+e.aman.catgalleryapp.test.app-core-ktx-1.13.1-25 /Users/amansrivastava/.gradle/caches/transforms-3/e29871d9baf810cd1814170495ace16e/transformed/core-ktx-1.13.1/res
+e.aman.catgalleryapp.test.app-ui-util-release-26 /Users/amansrivastava/.gradle/caches/transforms-3/e5936919562f8883559cd8664e1c8769/transformed/ui-util-release/res
+e.aman.catgalleryapp.test.app-core-runtime-2.2.0-27 /Users/amansrivastava/.gradle/caches/transforms-3/e5f1c2c378ea377328084123836550ca/transformed/core-runtime-2.2.0/res
+e.aman.catgalleryapp.test.app-ui-geometry-release-28 /Users/amansrivastava/.gradle/caches/transforms-3/e693860633a0ee9745deda290bda81d2/transformed/ui-geometry-release/res
+e.aman.catgalleryapp.test.app-ui-text-release-29 /Users/amansrivastava/.gradle/caches/transforms-3/f3c63425d542dfcb3797621241b70c38/transformed/ui-text-release/res
+e.aman.catgalleryapp.test.app-activity-ktx-1.9.0-30 /Users/amansrivastava/.gradle/caches/transforms-3/f8a24705e3ac020918fe0211f383f35c/transformed/activity-ktx-1.9.0/res
+e.aman.catgalleryapp.test.app-androidTest-31 /Users/amansrivastava/Desktop/CAT APP/app/build/generated/res/resValues/androidTest/debug
+e.aman.catgalleryapp.test.app-mergeDebugAndroidTestResources-32 /Users/amansrivastava/Desktop/CAT APP/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+e.aman.catgalleryapp.test.app-mergeDebugAndroidTestResources-33 /Users/amansrivastava/Desktop/CAT APP/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+e.aman.catgalleryapp.test.app-debugAndroidTest-34 /Users/amansrivastava/Desktop/CAT APP/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
